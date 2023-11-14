@@ -6,7 +6,7 @@
 <h2> Tecnologias usadas</h2>
 <ul>
 <b> 
-  <li> Html </li> 
+  <li> Html </li>
   <br>
   <li> CSS </li>
 </b>
